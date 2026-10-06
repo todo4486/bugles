@@ -1,0 +1,6 @@
+{
+  "name": "BugLens — Explainable Software Bug Prediction",
+  "description": "Research-grade ML software defect prediction platform featuring metric-based risk modeling, SHAP explainability, dataset analysis, and model comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
